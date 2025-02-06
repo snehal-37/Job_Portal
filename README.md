@@ -1,7 +1,7 @@
-# Job Portal Website
+# Job Portal
 
 ## Overview
-This is a job portal website where users can post jobs, apply for jobs, search for jobs, and filter them based on location and job type. Both employers and job seekers can register on the platform.
+This is a job portal where users can post jobs, apply for jobs, search for jobs, and filter them based on location and job type. Both employers and job seekers can register on the platform.
 
 ## Features
 - User Registration (Employer & Job Seeker)
